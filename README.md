@@ -1,8 +1,6 @@
+
+
 # cruelfi
-GBB Admin LFI Vuln
-
-
-# crulfi
 need requests
 
 
